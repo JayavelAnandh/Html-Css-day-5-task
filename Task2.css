@@ -1,0 +1,46 @@
+#in{
+    background-color: orange;
+    height: 400px;
+}
+#million{
+    height: 400px;
+    background-color: rgb(9, 138, 189);
+}
+#obe{
+  text-align: start;
+  height: 300px;
+  padding: 30px;
+  background-color: rgb(211, 46, 87);
+  color: white;
+  overflow: inherit;
+  
+}
+#smoke{
+    position: relative;
+    bottom: 145px;
+    left: 450px;
+}
+#pov{
+    position: relative;
+    bottom: 195px;
+    left: 550px;
+   
+}
+#wine{
+position: relative;
+bottom: 245px;
+left: 650px;
+}
+#rf{
+    margin-top: 25px;
+}
+#tv{
+    position: relative;
+    bottom: 200px;
+    left: 600px;
+}
+#bc{
+    position: relative;
+    bottom: 230px;
+    left: 600px;
+}
