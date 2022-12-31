@@ -1,9 +1,9 @@
 #in{
     background-color: orange;
-    height: 400px;
+    height: auto;
 }
 #million{
-    height: 400px;
+    height: 450px;
     background-color: rgb(9, 138, 189);
 }
 #obe{
@@ -34,13 +34,52 @@ left: 650px;
 #rf{
     margin-top: 25px;
 }
-#tv{
-    position: relative;
-    bottom: 200px;
-    left: 600px;
-}
+
 #bc{
     position: relative;
     bottom: 230px;
     left: 600px;
+}
+@media screen and (max-width: 500px) {
+    .res{
+        display: grid;
+        align-items: center;
+    }
+}
+.bigbold{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.bigbigbold{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.img-size{
+    height: 70px;
+    width: 70px;
+}
+.rowers{
+    display: flex;
+    justify-content: center;    
+    
+}
+
+.colArrange{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-bar2{
+    height: 50px;
+    margin-left: 10px;
+}
+#Television{
+    background-color: rgb(51, 161, 235);
+}
+#bicyclebar{
+    background-color: orange;
+    color: white;
+    position: relative;
+    
+    
 }
