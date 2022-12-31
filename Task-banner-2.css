@@ -1,51 +1,28 @@
 #in{
     background-color: orange;
     height: auto;
+    color:white;
+    text-align: center;
 }
 #million{
     height: 450px;
     background-color: rgb(9, 138, 189);
+   color:white;
+   text-align: center;
+   padding: 2rem;
+   
+   
 }
 #obe{
   text-align: start;
-  height: 300px;
+
   padding: 30px;
   background-color: rgb(211, 46, 87);
   color: white;
-  overflow: inherit;
+  
   
 }
-#smoke{
-    position: relative;
-    bottom: 145px;
-    left: 450px;
-}
-#pov{
-    position: relative;
-    bottom: 195px;
-    left: 550px;
-   
-}
-#wine{
-position: relative;
-bottom: 245px;
-left: 650px;
-}
-#rf{
-    margin-top: 25px;
-}
 
-#bc{
-    position: relative;
-    bottom: 230px;
-    left: 600px;
-}
-@media screen and (max-width: 500px) {
-    .res{
-        display: grid;
-        align-items: center;
-    }
-}
 .bigbold{
     font-size: x-large;
     font-weight: bolder;
@@ -78,8 +55,5 @@ left: 650px;
 }
 #bicyclebar{
     background-color: orange;
-    color: white;
-    position: relative;
-    
-    
+    color: white;   
 }
